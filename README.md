@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunday361
-- 👀 I’m interested in DATABASE OS
-- 🌱 I’m currently learning DATABASE OS
+- 👀 I’m interested in DATABASE/OS/NVMe
+- 🌱 I’m currently learning OS/NVMe/SPDK
 - 📫 How to reach me panrh0904@gmail.com
 
 <!---
